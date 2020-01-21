@@ -1,4 +1,4 @@
-# Global-Soft Template Version: 0.5
+# MedSoft Template Version: 1.0
 
 ## Depends on  Bootstrap Library
 This Template For Freelancers To Define Themselves And Display Their Works.
