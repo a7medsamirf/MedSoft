@@ -1,9 +1,9 @@
 /*************************************
 
-Template Name: E-Commerce | Personal Portfolio HTML5 Template
+Template Name: MedSoft | Personal HTML5 Template
 Author: Ahmed Samir
 Author URI: https://www.facebook.com/a7med.samir.f
-Description: Meruem | Personal Portfolio HTML5 Template
+Description: MedSoft | Personal Portfolio HTML5 Template
 Version: 1.0
 
 NOTE: This is active js file of the template.
@@ -110,10 +110,6 @@ $(document).ready(function () {
 	  console.log("sidebarNavigation Requires jQuery");
   };
   
-  
-
-
-
 //Check the scroll position
 $(window).scroll(function(){
 	if ($(this).scrollTop() > 100) {
@@ -154,12 +150,27 @@ $(window).on("load", function () {
   });
 
 
+$('li').click(function() {
+	$(this).addClass('active').siblings().removeClass('active');
+  });
 
-
-
-
-/*   $(function() {
-	$(this).bind("contextmenu", function(e) {
-		e.preventDefault();
-	});
-});  */
+  	//Tabs Box
+	if($('.tabs-box').length){
+		$('.tabs-box .tab-buttons .tab-btn').on('click', function(e) {
+			e.preventDefault();
+			var target = $($(this).attr('data-tab'));
+			
+			if ($(target).is(':visible')){
+				return false;
+			}else{
+				target.parents('.tabs-box').find('.tab-buttons').find('.tab-btn').removeClass('active-btn');
+				$(this).addClass('active-btn');
+				target.parents('.tabs-box').find('.tabs-content').find('.tab').fadeOut(0);
+				target.parents('.tabs-box').find('.tabs-content').find('.tab').removeClass('active-tab');
+				$(target).fadeIn(300);
+				$(target).addClass('active-tab');
+			}
+		});
+	}
+	
+	
