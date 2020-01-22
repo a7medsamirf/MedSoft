@@ -1082,6 +1082,13 @@ Start Home Page
   font-weight: 700;
 }
 
+#header h1.title span {
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
 #header .header-text {
   padding-top: 20vh;
   color: #fff;
@@ -2653,8 +2660,7 @@ li.breadcrumb-item {
 /*--------------------------------------------------
 [8. Start Blog single page ]
 --------------------------------------------------*/
-.Blog-page.blog-single
-{
+.Blog-page.blog-single {
   padding: 100px 0;
   position: relative;
   overflow: hidden;
@@ -2751,9 +2757,11 @@ li.breadcrumb-item {
   justify-content: center;
   align-items: center;
 }
+
 .Blog-page.blog-single .blog-wrapper .media-holder .media {
   position: relative;
 }
+
 .Blog-page.blog-single .blog-wrapper .media.inner {
   background: #fafaff;
   padding: 30px;
@@ -2774,8 +2782,9 @@ li.breadcrumb-item {
   color: #1c1d3e;
   font-weight: 500;
   display: inline-block;
-  box-shadow: 0px 0px 15px 0px rgba(72,73,121,0.15);
+  box-shadow: 0px 0px 15px 0px rgba(72, 73, 121, 0.15);
 }
+
 /*--------------------------------------------------
 [10. Start Media Query ]
 --------------------------------------------------*/
