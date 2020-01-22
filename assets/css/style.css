@@ -227,8 +227,8 @@ a:hover {
   border-radius: 0;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -279,8 +279,8 @@ a:hover {
 }
 
 .heading h2 {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -349,15 +349,15 @@ a:hover {
   line-height: 46px;
   font-weight: 700;
   font-weight: bold;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
 
 .text-theme {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -402,11 +402,11 @@ a:hover {
   color: #f5f5f5;
   -webkit-animation: loading 0.85s ease-in-out infinite alternate;
   animation: loading 0.85s ease-in-out infinite alternate;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
-  text-shadow: 0 0 2px #df6981, 0 15px 25px #3649b5, 0 -2px 3px rgba(0, 0, 0, 0.1), 0 -5px 10px rgba(255, 255, 255, 0.5), 0 5px 10px rgba(0, 0, 0, 0.3), 0 3px 4px rgba(255, 255, 255, 0.2), 0 0 20px rgba(255, 255, 255, 0.45);
+  text-shadow: 0 0 2px #df6981, 0 15px 25px #9570ee, 0 -2px 3px rgba(0, 0, 0, 0.1), 0 -5px 10px rgba(255, 255, 255, 0.5), 0 5px 10px rgba(0, 0, 0, 0.3), 0 3px 4px rgba(255, 255, 255, 0.2), 0 0 20px rgba(255, 255, 255, 0.45);
 }
 
 
@@ -519,8 +519,8 @@ a:hover {
 .navbar-light .navbar-brand {
   font-family: 'Nunito', sans-serif;
   font-weight: bold;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -550,8 +550,8 @@ a:hover {
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link:focus {
   color: var(--maincolor);
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -571,7 +571,7 @@ a:hover {
 .navbar-nav .nav-item .nav-link.active::before,
 .navbar-nav .nav-link:focus::before {
   color: #2575fc;
-  text-shadow: 10px 0 #df6981, 0 0 #3649b5, -10px 0 #df6981;
+  text-shadow: 10px 0 #df6981, 0 0 #9570ee, -10px 0 #df6981;
 }
 
 .navbar-nav .nav-link::before {
@@ -1093,8 +1093,8 @@ Start Home Page
 }
 
 span.color {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -1135,8 +1135,8 @@ span.color {
   line-height: 46px;
   font-weight: 700;
   font-weight: bold;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -1210,8 +1210,8 @@ span.color {
   text-transform: capitalize;
   margin-bottom: 10px;
   position: relative;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -1324,8 +1324,8 @@ span.color {
   text-transform: capitalize;
   margin-bottom: 10px;
   position: relative;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -1485,8 +1485,8 @@ span.color {
   text-transform: capitalize;
   margin-bottom: 10px;
   position: relative;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -1627,8 +1627,8 @@ span.color {
   text-transform: capitalize;
   margin-bottom: 10px;
   position: relative;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -1718,8 +1718,8 @@ span.color {
   text-transform: capitalize;
   margin-bottom: 10px;
   position: relative;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -1939,8 +1939,8 @@ span.color {
 }
 
 #Partner h1 {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
   font-family: 'Nunito', sans-serif;
@@ -1961,8 +1961,8 @@ span.color {
   text-transform: capitalize;
   margin-bottom: 10px;
   position: relative;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -2029,8 +2029,8 @@ span.color {
 #footer .footer-logo {
   font-family: 'Nunito', sans-serif;
   font-weight: bold;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -2097,8 +2097,8 @@ li.breadcrumb-item {
 }
 
 .breadcrumb-item i {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5)) !important;
-  background: linear-gradient(to right, #df6981, #3649b5) !important;
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee)) !important;
+  background: linear-gradient(to right, #df6981, #9570ee) !important;
   -webkit-background-clip: text !important;
 }
 
@@ -2239,8 +2239,8 @@ li.breadcrumb-item {
 }
 
 .md-accordion .card .card-header:hover {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: #0000003b !important;
 }
@@ -2295,8 +2295,8 @@ li.breadcrumb-item {
   letter-spacing: 15px;
   color: #111121;
   margin-bottom: 20px;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -2329,8 +2329,8 @@ li.breadcrumb-item {
   position: absolute;
   left: 0;
   top: 0;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
   font-size: 22px;
@@ -2395,8 +2395,8 @@ li.breadcrumb-item {
 }
 
 .Blog-page .blog-wrapper .blog-post .blog-text h3 {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -2473,8 +2473,8 @@ li.breadcrumb-item {
 .Blog-page .blog-wrapper .widget-tag h5 {
   margin: 0;
   margin-bottom: 20px;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
   font-size: 20px;
@@ -2503,8 +2503,8 @@ li.breadcrumb-item {
 }
 
 .Blog-page .blog-wrapper .Post-Categories ul.categories li:hover {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -2598,15 +2598,15 @@ li.breadcrumb-item {
 }
 
 #Blog .post .post-desc h5 a:hover {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
 
 #Blog .post .post-desc .post-date {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
   font-size: 24px;
@@ -2615,8 +2615,8 @@ li.breadcrumb-item {
 
 #Blog .post-author span {
   font-size: 16px;
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
   font-weight: 500;
@@ -2740,8 +2740,8 @@ li.breadcrumb-item {
 }
 
 .Blog-page.blog-single .blog-wrapper .related-post:hover h5 {
-  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#3649b5));
-  background: linear-gradient(to right, #df6981, #3649b5);
+  background: -webkit-gradient(linear, left top, right top, from(#df6981), to(#9570ee));
+  background: linear-gradient(to right, #df6981, #9570ee);
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
   font-size: 20px;
