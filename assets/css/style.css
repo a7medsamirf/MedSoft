@@ -1070,14 +1070,14 @@ Start Home Page
 }
 
 #header h3 {
-  font-size: 34px;
+  font-size: 30px;
   color: #7f8897;
 }
 
 #header h1.title {
   position: relative;
   color: #394963;
-  font-size: 85px;
+  font-size: 75px;
   line-height: 1.1em;
   font-weight: 700;
 }
